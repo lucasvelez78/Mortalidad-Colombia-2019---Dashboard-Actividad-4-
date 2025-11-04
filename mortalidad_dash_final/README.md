@@ -123,6 +123,8 @@ Pasos seguidos para desplegar la aplicación en Render:
 
 1. Mapa: Muertes por departamento
 
+<img width="1068" height="583" alt="Image" src="https://github.com/user-attachments/assets/8a278d97-42fb-4fc5-b4c1-5301b925b559" />
+
 Representa la distribución total de muertes en 2019. Los departamentos con mayor población (Antioquia, Bogotá, Valle del Cauca) muestran los valores más altos.
 
 2. Gráfico de líneas: Muertes por mes
